@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://omaha.lemurianstudios.com/sitemap.xml
